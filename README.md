@@ -16,8 +16,8 @@
 └── config.py               # 配置文件
 ```
 ## 功能
-生成读心神探 17 集自定义字幕的 gif   
-gif 大小为 546*300, 每秒帧数 8 (可在 config.py 中修改)  
+生成自定义字幕的 gif   
+sorry gif 大小为 546*300, 每秒帧数 8 (可在 config.py 中修改)  
 demo: [http://demo.zzh.sb/](http://demo.zzh.sb/)
 
 ## 部署
@@ -64,7 +64,7 @@ crontab -e
 - [ ] 优化代码
 - [ ] 优化代码结构
 - [ ] 设计网页页面
-- [ ] 提供 API
+- [*] 提供 API
 - [ ] 用户可以设置 gif 大小及 fps
-- [ ] 配置更多 gif 模板
+- [*] 配置更多 gif 模板
 - [ ] 用户可以配置 gif 模板
